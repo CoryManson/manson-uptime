@@ -5,6 +5,8 @@ repo: manson-uptime # The name of this repository
 sites:
   - name: Homepage
     url: https://$FQDN
+  - name: Recipe Book
+    url: https://food.$FQDN
   - name: Nextcloud
     url: https://nextcloud.$FQDN
   - name: Calibre
