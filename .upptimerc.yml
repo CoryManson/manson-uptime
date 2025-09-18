@@ -14,9 +14,7 @@ sites:
   - name: Bitwarden
     url: https://bitwarden.$FQDN
   - name: Plex
-    check: "tcp-ping"
-    url: $FQDN
-    port: 32400
+    url: https://plex.$FQDN
 
 delay: 2000 # 2 seconds
 
