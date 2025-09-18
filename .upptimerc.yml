@@ -15,6 +15,8 @@ sites:
     url: https://bitwarden.$FQDN
   - name: Plex
     url: https://plex.$FQDN
+    expectedStatusCodes:
+      - 401
 
 delay: 2000 # 2 seconds
 
