@@ -1,7 +1,7 @@
 url: https://bitwarden.$FQDN
 status: up
 code: 200
-responseTime: 881
-lastUpdated: 2025-11-13T23:01:27.765Z
+responseTime: 593
+lastUpdated: 2025-11-14T23:01:24.736Z
 startTime: 2025-08-25T02:30:11.250Z
 generator: Upptime <https://github.com/upptime/upptime>
