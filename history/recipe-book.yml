@@ -1,7 +1,7 @@
 url: https://food.$FQDN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-22T08:30:31.733Z
+status: up
+code: 200
+responseTime: 822
+lastUpdated: 2025-12-22T08:56:59.009Z
 startTime: 2025-08-25T04:59:02.395Z
 generator: Upptime <https://github.com/upptime/upptime>
