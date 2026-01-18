@@ -1,7 +1,7 @@
 url: https://plex.$FQDN
-status: down
-code: 502
-responseTime: 798
-lastUpdated: 2026-01-18T18:00:13.452Z
+status: up
+code: 401
+responseTime: 612
+lastUpdated: 2026-01-18T18:12:00.228Z
 startTime: 2025-08-25T02:30:14.451Z
 generator: Upptime <https://github.com/upptime/upptime>
