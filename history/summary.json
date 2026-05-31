@@ -83,7 +83,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "73.41%",
+    "uptimeDay": "75.80%",
     "uptimeWeek": "94.21%",
     "uptimeMonth": "84.76%",
     "uptimeYear": "97.81%",
@@ -203,17 +203,17 @@
     "url": "https://plex.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/plex.$fqdn.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.56%",
-    "uptimeYear": "98.41%",
-    "time": 693,
-    "timeDay": 697,
-    "timeWeek": 677,
-    "timeMonth": 662,
-    "timeYear": 693,
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "88.48%",
+    "uptimeYear": "98.40%",
+    "time": 707,
+    "timeDay": 2145,
+    "timeWeek": 1162,
+    "timeMonth": 788,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 4,
@@ -235,7 +235,7 @@
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 628,
-      "2026-05-31": 0
+      "2026-05-31": 34
     }
   }
 ]
