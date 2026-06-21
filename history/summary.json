@@ -4,16 +4,16 @@
     "url": "https://$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/$fqdn.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.45%",
+    "status": "up",
+    "uptime": "98.44%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.44%",
     "time": 1095,
-    "timeDay": 1033,
-    "timeWeek": 1216,
-    "timeMonth": 1214,
+    "timeDay": 1039,
+    "timeWeek": 1198,
+    "timeMonth": 1210,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-09-06": 156,
@@ -37,7 +37,7 @@
       "2026-05-09": 20,
       "2026-05-17": 29,
       "2026-06-05": 87,
-      "2026-06-21": 1
+      "2026-06-21": 43
     }
   },
   {
@@ -84,17 +84,17 @@
     "url": "https://nextcloud.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.$fqdn.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "97.46%",
-    "time": 1369,
-    "timeDay": 2476,
-    "timeWeek": 1853,
-    "timeMonth": 2450,
-    "timeYear": 1369,
+    "status": "up",
+    "uptime": "97.45%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "97.45%",
+    "time": 1370,
+    "timeDay": 2264,
+    "timeWeek": 1920,
+    "timeMonth": 2434,
+    "timeYear": 1370,
     "dailyMinutesDown": {
       "2025-08-28": 23,
       "2025-09-06": 156,
@@ -127,7 +127,7 @@
       "2026-06-05": 1040,
       "2026-06-07": 85,
       "2026-06-14": 40,
-      "2026-06-21": 0
+      "2026-06-21": 42
     }
   },
   {
