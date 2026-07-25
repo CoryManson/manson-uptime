@@ -4,17 +4,17 @@
     "url": "https://$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/$fqdn.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "98.54%",
-    "time": 1187,
-    "timeDay": 805,
-    "timeWeek": 1023,
-    "timeMonth": 2135,
-    "timeYear": 1187,
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "98.53%",
+    "time": 1184,
+    "timeDay": 569,
+    "timeWeek": 937,
+    "timeMonth": 2085,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 8,
@@ -40,7 +40,8 @@
       "2026-06-21": 43,
       "2026-07-02": 199,
       "2026-07-01": 57,
-      "2026-07-17": 53
+      "2026-07-17": 53,
+      "2026-07-25": 16
     }
   },
   {
@@ -49,11 +50,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/food.$fqdn.ico",
     "slug": "recipe-book",
     "status": "down",
-    "uptime": "91.59%",
+    "uptime": "91.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.64%",
-    "uptimeYear": "91.59%",
+    "uptimeMonth": "20.98%",
+    "uptimeYear": "91.45%",
     "time": 1008,
     "timeDay": 0,
     "timeWeek": 0,
@@ -80,7 +81,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-07-25": 34,
+      "2026-07-25": 765,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -112,11 +113,11 @@
     "url": "https://nextcloud.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.$fqdn.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.80%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "97.59%",
     "time": 1505,
     "timeDay": 1342,
@@ -161,7 +162,8 @@
       "2026-07-12": 194,
       "2026-07-14": 19,
       "2026-07-17": 44,
-      "2026-07-24": 18
+      "2026-07-24": 18,
+      "2026-07-25": 10
     }
   },
   {
@@ -169,11 +171,11 @@
     "url": "https://calibre.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.$fqdn.ico",
     "slug": "calibre",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.57%",
     "time": 1339,
     "timeDay": 1963,
@@ -204,7 +206,8 @@
       "2026-06-05": 86,
       "2026-07-02": 199,
       "2026-07-01": 50,
-      "2026-07-17": 34
+      "2026-07-17": 34,
+      "2026-07-25": 5
     }
   },
   {
@@ -212,17 +215,17 @@
     "url": "https://bitwarden.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "98.58%",
-    "time": 1097,
-    "timeDay": 929,
-    "timeWeek": 1110,
-    "timeMonth": 2206,
-    "timeYear": 1097,
+    "time": 1095,
+    "timeDay": 641,
+    "timeWeek": 1015,
+    "timeMonth": 2155,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 6,
@@ -245,7 +248,8 @@
       "2026-06-05": 86,
       "2026-07-02": 199,
       "2026-07-01": 49,
-      "2026-07-17": 34
+      "2026-07-17": 34,
+      "2026-07-25": 5
     }
   },
   {
@@ -253,11 +257,11 @@
     "url": "https://plex.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/plex.$fqdn.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.60%",
     "time": 699,
     "timeDay": 580,
@@ -288,7 +292,8 @@
       "2026-05-31": 34,
       "2026-07-02": 199,
       "2026-07-01": 48,
-      "2026-07-14": 30
+      "2026-07-14": 30,
+      "2026-07-25": 0
     }
   }
 ]
