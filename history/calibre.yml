@@ -1,7 +1,7 @@
 url: https://calibre.$FQDN
-status: down
-code: 502
-responseTime: 689
-lastUpdated: 2026-07-25T23:17:41.785Z
+status: up
+code: 200
+responseTime: 1485
+lastUpdated: 2026-07-26T11:49:46.906Z
 startTime: 2025-08-25T02:30:07.784Z
 generator: Upptime <https://github.com/upptime/upptime>
