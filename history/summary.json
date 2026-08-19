@@ -4,17 +4,17 @@
     "url": "https://$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/$fqdn.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "98.77%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "98.58%",
-    "time": 1472,
-    "timeDay": 1311,
-    "timeWeek": 3736,
-    "timeMonth": 3380,
-    "timeYear": 1472,
+    "time": 1476,
+    "timeDay": 1529,
+    "timeWeek": 3693,
+    "timeMonth": 3371,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 8,
@@ -48,7 +48,7 @@
       "2026-08-06": 57,
       "2026-08-17": 76,
       "2026-08-18": 32,
-      "2026-08-19": 16
+      "2026-08-19": 17
     }
   },
   {
@@ -88,7 +88,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-08-19": 277,
+      "2026-08-19": 279,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -145,17 +145,17 @@
     "url": "https://nextcloud.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.$fqdn.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.89%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "97.50%",
-    "time": 1709,
-    "timeDay": 2258,
-    "timeWeek": 3895,
-    "timeMonth": 3458,
-    "timeYear": 1709,
+    "time": 1708,
+    "timeDay": 2044,
+    "timeWeek": 3717,
+    "timeMonth": 3414,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2025-08-28": 23,
       "2025-09-06": 156,
@@ -200,7 +200,7 @@
       "2026-08-01": 58,
       "2026-08-06": 55,
       "2026-08-17": 384,
-      "2026-08-19": 10
+      "2026-08-19": 12
     }
   },
   {
@@ -208,16 +208,16 @@
     "url": "https://calibre.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.$fqdn.ico",
     "slug": "calibre",
-    "status": "down",
+    "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "96.19%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "98.34%",
     "time": 1341,
-    "timeDay": 2487,
-    "timeWeek": 1488,
-    "timeMonth": 1367,
+    "timeDay": 2191,
+    "timeWeek": 1473,
+    "timeMonth": 1366,
     "timeYear": 1341,
     "dailyMinutesDown": {
       "2025-09-06": 156,
@@ -248,7 +248,7 @@
       "2026-07-25": 593,
       "2026-08-01": 27,
       "2026-08-17": 379,
-      "2026-08-19": 5
+      "2026-08-19": 7
     }
   },
   {
@@ -256,15 +256,15 @@
     "url": "https://bitwarden.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "98.64%",
     "time": 1083,
-    "timeDay": 588,
-    "timeWeek": 785,
+    "timeDay": 647,
+    "timeWeek": 798,
     "timeMonth": 979,
     "timeYear": 1083,
     "dailyMinutesDown": {
@@ -292,7 +292,7 @@
       "2026-07-17": 34,
       "2026-07-26": 170,
       "2026-08-01": 27,
-      "2026-08-19": 5
+      "2026-08-19": 7
     }
   },
   {
@@ -300,17 +300,17 @@
     "url": "https://plex.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/plex.$fqdn.ico",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "98.54%",
-    "time": 770,
-    "timeDay": 1364,
-    "timeWeek": 812,
-    "timeMonth": 1336,
-    "timeYear": 770,
+    "time": 769,
+    "timeDay": 1169,
+    "timeWeek": 795,
+    "timeMonth": 1320,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 4,
@@ -341,7 +341,7 @@
       "2026-07-27": 376,
       "2026-08-01": 56,
       "2026-08-16": 201,
-      "2026-08-19": 0
+      "2026-08-19": 2
     }
   }
 ]
