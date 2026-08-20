@@ -6,9 +6,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "98.57%",
     "time": 1476,
     "timeDay": 1530,
@@ -49,7 +49,7 @@
       "2026-08-17": 76,
       "2026-08-18": 32,
       "2026-08-19": 33,
-      "2026-08-20": 32
+      "2026-08-20": 38
     }
   },
   {
@@ -58,11 +58,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/food.$fqdn.ico",
     "slug": "recipe-book",
     "status": "down",
-    "uptime": "84.87%",
+    "uptime": "84.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.87%",
+    "uptimeYear": "84.86%",
     "time": 1008,
     "timeDay": 0,
     "timeWeek": 0,
@@ -89,7 +89,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-08-20": 654,
+      "2026-08-20": 660,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -149,9 +149,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "97.51%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.89%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "97.51%",
     "time": 1706,
     "timeDay": 1509,
@@ -202,7 +202,7 @@
       "2026-08-01": 58,
       "2026-08-06": 55,
       "2026-08-17": 384,
-      "2026-08-20": 10
+      "2026-08-20": 17
     }
   },
   {
@@ -210,16 +210,16 @@
     "url": "https://calibre.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/calibre.$fqdn.ico",
     "slug": "calibre",
-    "status": "down",
+    "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "96.09%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "98.34%",
     "time": 1339,
-    "timeDay": 1130,
-    "timeWeek": 1398,
-    "timeMonth": 1345,
+    "timeDay": 1201,
+    "timeWeek": 1404,
+    "timeMonth": 1348,
     "timeYear": 1339,
     "dailyMinutesDown": {
       "2025-09-06": 156,
@@ -250,7 +250,7 @@
       "2026-07-25": 593,
       "2026-08-01": 27,
       "2026-08-17": 379,
-      "2026-08-20": 5
+      "2026-08-20": 11
     }
   },
   {
@@ -258,17 +258,17 @@
     "url": "https://bitwarden.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.64%",
-    "time": 1074,
-    "timeDay": 479,
-    "timeWeek": 700,
-    "timeMonth": 915,
-    "timeYear": 1074,
+    "time": 1075,
+    "timeDay": 654,
+    "timeWeek": 744,
+    "timeMonth": 930,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 6,
@@ -294,7 +294,7 @@
       "2026-07-17": 34,
       "2026-07-26": 170,
       "2026-08-01": 27,
-      "2026-08-20": 5
+      "2026-08-20": 11
     }
   },
   {
@@ -302,17 +302,17 @@
     "url": "https://plex.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/plex.$fqdn.ico",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "98.55%",
-    "time": 767,
-    "timeDay": 585,
-    "timeWeek": 758,
-    "timeMonth": 1274,
-    "timeYear": 767,
+    "time": 768,
+    "timeDay": 647,
+    "timeWeek": 766,
+    "timeMonth": 1267,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 4,
@@ -343,7 +343,7 @@
       "2026-07-27": 376,
       "2026-08-01": 56,
       "2026-08-16": 201,
-      "2026-08-20": 0
+      "2026-08-20": 6
     }
   }
 ]
