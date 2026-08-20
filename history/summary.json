@@ -4,17 +4,17 @@
     "url": "https://$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/$fqdn.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "90.89%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.56%",
-    "time": 1476,
-    "timeDay": 1530,
-    "timeWeek": 3191,
-    "timeMonth": 3223,
-    "timeYear": 1476,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.55%",
+    "time": 1482,
+    "timeDay": 1861,
+    "timeWeek": 3215,
+    "timeMonth": 3233,
+    "timeYear": 1482,
     "dailyMinutesDown": {
       "2025-09-06": 156,
       "2025-09-05": 8,
@@ -49,7 +49,7 @@
       "2026-08-17": 76,
       "2026-08-18": 32,
       "2026-08-19": 33,
-      "2026-08-20": 115
+      "2026-08-20": 153
     }
   },
   {
@@ -89,7 +89,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-08-20": 737,
+      "2026-08-20": 776,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -212,9 +212,9 @@
     "slug": "calibre",
     "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "95.95%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "98.33%",
     "time": 1337,
     "timeDay": 1097,
@@ -250,7 +250,7 @@
       "2026-07-25": 593,
       "2026-08-01": 27,
       "2026-08-17": 379,
-      "2026-08-20": 63
+      "2026-08-20": 101
     }
   },
   {
@@ -259,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.65%",
     "time": 1077,
     "timeDay": 805,
     "timeWeek": 791,
@@ -293,8 +293,7 @@
       "2026-07-01": 49,
       "2026-07-17": 34,
       "2026-07-26": 170,
-      "2026-08-01": 27,
-      "2026-08-20": 13
+      "2026-08-01": 27
     }
   },
   {
