@@ -6,9 +6,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.57%",
     "time": 1476,
     "timeDay": 1530,
@@ -49,7 +49,7 @@
       "2026-08-17": 76,
       "2026-08-18": 32,
       "2026-08-19": 33,
-      "2026-08-20": 38
+      "2026-08-20": 42
     }
   },
   {
@@ -89,7 +89,7 @@
       "2026-05-09": 18,
       "2026-05-17": 28,
       "2026-06-05": 86,
-      "2026-08-20": 660,
+      "2026-08-20": 664,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -147,16 +147,16 @@
     "url": "https://nextcloud.$FQDN",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.$fqdn.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "96.86%",
     "uptimeYear": "97.51%",
     "time": 1706,
-    "timeDay": 1509,
-    "timeWeek": 3322,
-    "timeMonth": 3295,
+    "timeDay": 1505,
+    "timeWeek": 3221,
+    "timeMonth": 3259,
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2025-08-28": 23,
@@ -202,7 +202,7 @@
       "2026-08-01": 58,
       "2026-08-06": 55,
       "2026-08-17": 384,
-      "2026-08-20": 17
+      "2026-08-20": 20
     }
   },
   {
@@ -212,9 +212,9 @@
     "slug": "calibre",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "96.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "98.34%",
     "time": 1339,
     "timeDay": 1201,
@@ -249,8 +249,7 @@
       "2026-07-26": 710,
       "2026-07-25": 593,
       "2026-08-01": 27,
-      "2026-08-17": 379,
-      "2026-08-20": 11
+      "2026-08-17": 379
     }
   },
   {
@@ -259,11 +258,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.$fqdn.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.65%",
     "time": 1075,
     "timeDay": 654,
     "timeWeek": 744,
@@ -293,8 +292,7 @@
       "2026-07-01": 49,
       "2026-07-17": 34,
       "2026-07-26": 170,
-      "2026-08-01": 27,
-      "2026-08-20": 11
+      "2026-08-01": 27
     }
   },
   {
@@ -304,9 +302,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "98.55%",
     "time": 768,
     "timeDay": 647,
@@ -342,8 +340,7 @@
       "2026-07-26": 118,
       "2026-07-27": 376,
       "2026-08-01": 56,
-      "2026-08-16": 201,
-      "2026-08-20": 6
+      "2026-08-16": 201
     }
   }
 ]
