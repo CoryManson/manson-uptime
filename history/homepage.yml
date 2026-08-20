@@ -1,7 +1,7 @@
 url: https://$FQDN
-status: up
-code: 200
-responseTime: 2281
-lastUpdated: 2026-08-20T05:24:33.851Z
+status: down
+code: 523
+responseTime: 780
+lastUpdated: 2026-08-20T10:38:06.886Z
 startTime: 2025-08-25T02:30:00.890Z
 generator: Upptime <https://github.com/upptime/upptime>
