@@ -1,7 +1,7 @@
 url: https://nextcloud.$FQDN
-status: up
-code: 200
-responseTime: 1488
-lastUpdated: 2026-08-20T11:03:25.329Z
+status: down
+code: 401
+responseTime: 689
+lastUpdated: 2026-08-20T13:56:21.196Z
 startTime: 2025-08-25T02:30:04.237Z
 generator: Upptime <https://github.com/upptime/upptime>
